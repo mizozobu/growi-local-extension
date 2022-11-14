@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "hashicorp.terraform"
+  ]
+}
