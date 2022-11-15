@@ -1,24 +1,24 @@
 variable "project" {
-  type = string
+  type        = string
   description = "gcp project"
 }
 
 variable "region" {
-  type = string
+  type        = string
   description = "gcp region"
 }
 
 variable "zone" {
-  type = string
+  type        = string
   description = "gcp zone"
 }
 
 variable "access_token" {
-  type = string
+  type        = string
   description = "gcp access token"
 }
 
 variable "bucket_name" {
-  type = string
+  type        = string
   description = "gcs bucket name"
 }
