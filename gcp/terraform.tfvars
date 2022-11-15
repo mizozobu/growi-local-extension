@@ -1,0 +1,5 @@
+project="growi"
+region="us-central1"
+zone="us-central1-c"
+access_token="mockaccesstoken"
+bucket_name="growi"
